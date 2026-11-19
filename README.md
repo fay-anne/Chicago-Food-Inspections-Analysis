@@ -16,7 +16,7 @@ This project analyzes inspection results, failure rates, facility categories, re
 
 The Jupyter Notebook documents the data inspection, cleaning, exploratory analysis and preparation of the cleaned dataset.
 
-See `Chicago_Food_Inspection_Analysis.ipynb` for the executed code, Markdown explanations and outputs.
+See [Python analysis notebook](Jupyter%20notebook/Chicago_Food_Inspection_Analysis.ipynb) for the executed code, Markdown explanations and outputs.
 
 ### 2. Power BI Dashboard
 
@@ -43,11 +43,11 @@ Restaurants recorded the highest number of failed inspections (24,452), followed
 
 ## Project Files
 
-- `Chicago_Food_Inspection_Analysis.ipynb` — Python cleaning and exploratory analysis.
-- `Chicago_Food_Inspections_Cleaned.csv` — Cleaned inspection dataset.
-- Power BI `.pbix` file — Final interactive dashboard.
-- Chicago ZIP code TopoJSON — Geographic boundaries used in the Shape Map.
-- Top 5 Violations summary — Overall violation counts used in Power BI.
+- [Python Jupyter Notebook](Jupyter%20notebook/Chicago_Food_Inspection_Analysis.ipynb) — Cleaning and exploratory analysis.
+- [Raw Dataset (.7z)](data/raw/Chicago_Food_Inspections_Raw.7z) — Original inspection data.
+- [Cleaned Dataset (.7z)](data/cleaned/Chicago_Food_Inspections_Cleaned.7z) — Processed inspection data.
+- [Power BI Report (.pbix)](dashboard/Chicago_Food_Inspection_Report.pbix) — Interactive dashboard and data model.
+- [Dashboard Screenshot](dashboard/Chicago%20Food%20Inspection%20dashboard%20screenshot.png) — Dashboard preview.
 
 ## Important Notes
 
@@ -58,7 +58,7 @@ Restaurants recorded the highest number of failed inspections (24,452), followed
 
 ## Dashboard Preview
 
-[Insert final dashboard screenshot]
+![Chicago Food Inspections Dashboard](dashboard/Chicago%20Food%20Inspection%20dashboard%20screenshot.png)
 
 ## Portfolio
 
