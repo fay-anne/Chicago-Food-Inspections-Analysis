@@ -60,6 +60,6 @@ Restaurants recorded the highest number of failed inspections (24,452), followed
 
 ![Chicago Food Inspections Dashboard](dashboard/Chicago%20Food%20Inspection%20dashboard%20screenshot.png)
 
-## Portfolio
+## Detailed Project Case Study
 
-[Insert Notion case study link]
+[Read the Chicago Food Inspections Case Study on Notion](https://torpid-smell-609.notion.site/Chicago-Food-Inspections-Python-Power-BI-40a4c1fc422a80009c87f4e1c8526e0b)
